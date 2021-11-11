@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I'm an Android app developer and a Computer Science student at Delft University of Technology.**
+**I'm an Android app developer and a computer science student at Delft University of Technology.**
 
 🔭 I’m currently working on [Key Mapper](https://github.com/sds100/KeyMapper) which is a FOSS key-mapping app for Android.
 
