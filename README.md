@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-**I'm an Android app developer and a computer science student at Delft University of Technology.**
+**I'm an Android app developer and a student at Delft University of Technology.** I completed my Computer Science bachelor degree in June 2024 and am now pursuing a master degree in Computer & Embedded Systems Engineering at TU Delft.
 
-🔭 I’m currently working on [Key Mapper](https://github.com/sds100/KeyMapper) which is a FOSS key-mapping app for Android.
-
-👯 I'm looking for someone to help collaborate on Key Mapper. There are a lot of highly requested features that need implementing and I don't have time to do them all 😄.
-
-🌱 I’m currently learning... a lot at university.
+🔭 I’m currently working on [Key Mapper](https://github.com/keymapperorg/KeyMapper) which is a FOSS key-mapping app for Android with over **6.5 million** downloads. This is one of the most popular apps in its category.
